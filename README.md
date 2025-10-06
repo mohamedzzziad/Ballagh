@@ -1,5 +1,5 @@
 # Ballagh
-Visit me: https://ballagh.vercel.app/
+Visit me: https://ballagh.netlify.app/
 
 (Ballagh) is an anonymous crime reporting platform designed to create a safer society by giving people a secure and confidential way to report crimes and misconduct.
 
